@@ -6,6 +6,7 @@
 #
 # All rights reserved - Do Not Redistribute
 #
+#me testing from github
 if node["platform"] == "ubuntu"
 	execute "apt-get update -y" do
 	end
